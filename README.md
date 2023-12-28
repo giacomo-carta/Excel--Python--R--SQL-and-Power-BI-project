@@ -1,4 +1,4 @@
-# A Comprehensive Project
+## A Comprehensive Project
 
 Welcome to my project repository where I work with dataset of books using Excel, Python, R, SQL and Power BI.
 
