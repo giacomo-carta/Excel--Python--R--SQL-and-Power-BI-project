@@ -19,7 +19,7 @@ The "Books" dataset contains information about more than 10 thousands books, ext
 In this project, I wanted to follow a Data Analyst workflow, starting from retrieving the data, cleaning the data, creating a database and creating meaningful visualizations. I used Microsoft Excel to get familiar with the dataset, then I did some
 data cleaning, preprocessing, and an Exploratory Data Analysis (EDA) on Python and R. Then, I created the database amd imported the refined dataset into Power BI to make some visualizations.
 
-## Challenges
+## Web Scraping: a New Challenge
 
 During the project, I came across a difficult challenge. Noticing that all information about the books' genres was missing, I decided to retrieve it using the API, which, unfortunately, had been made unavailable by Goodreads from 2020. I had to find a different way and eventually
 resorted in doing a bit of "web scraping" from different websites: Wikipedia, Google Books, Open Library and Goodreads.
