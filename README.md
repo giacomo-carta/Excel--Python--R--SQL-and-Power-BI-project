@@ -46,12 +46,17 @@ resorted in doing a bit of "web scraping" from different websites: Wikipedia, Go
 
 ## Statistical Data Analysis with R
 
-![Removing Outliers in R](https://github.com/giacomo-carta/Excel--Python--R--SQL-and-Power-BI-project/assets/153180003/b3bfdd32-ede4-4897-9760-15139b869e31)
+![Removing Outliers in R](https://github.com/giacomo-carta/Excel--Python--R--SQL-and-Power-BI-project/assets/153180003/ea7d7909-043a-4abe-a1f3-f0b71c293688)
+
+
+## Creating a Database with SQL
+
+![Screenshot 2023-12-28 165027](https://github.com/giacomo-carta/Excel--Python--R--SQL-and-Power-BI-project/assets/153180003/bab1e0fe-da67-41a5-8f1c-89c97608ad0b)
 
 
 ## Creating the Relational Model in MySQL
 
-![ERD](https://github.com/giacomo-carta/Excel--Python--R--SQL-and-Power-BI-project/assets/153180003/9310da3b-14f9-4223-a784-f8f06c3b0e43)
+![erd](https://github.com/giacomo-carta/Excel--Python--R--SQL-and-Power-BI-project/assets/153180003/f2cd501b-c1e0-4a7d-8b8d-6a83c3c0f974)
 
 
 ## Power BI Visualization
