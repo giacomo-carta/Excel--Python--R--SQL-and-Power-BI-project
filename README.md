@@ -42,19 +42,21 @@ resorted in doing a bit of "web scraping" from different websites: Wikipedia, Go
 
 ## Data Cleaning with Python
 
-
+![Looking for missing values and adding columns](https://github.com/giacomo-carta/Excel--Python--R--SQL-and-Power-BI-project/assets/153180003/961ff4a6-4ce5-4e68-9407-cd981a039c6b)
 
 ## Statistical Data Analysis with R
 
+![Removing Outliers in R](https://github.com/giacomo-carta/Excel--Python--R--SQL-and-Power-BI-project/assets/153180003/b3bfdd32-ede4-4897-9760-15139b869e31)
 
 
 ## Creating the Relational Model in MySQL
 
+![ERD](https://github.com/giacomo-carta/Excel--Python--R--SQL-and-Power-BI-project/assets/153180003/9310da3b-14f9-4223-a784-f8f06c3b0e43)
 
 
 ## Power BI Visualization
 
-[![Africa, a comparative look at GDP and Life Expectancy](https://public.tableau.com/static/images/As/AssignmentFinalStage/AfricaacomparativelookatGDPandLifeExpectancy/1_rss.png)](https://public.tableau.com/app/profile/giacomo.carta/viz/AssignmentFinalStage/AfricaacomparativelookatGDPandLifeExpectancy)
+![Dashboard](https://github.com/giacomo-carta/Excel--Python--R--SQL-and-Power-BI-project/assets/153180003/bcd875c0-8931-491d-a804-7281613ecf78)
 
 
 ## Contact
